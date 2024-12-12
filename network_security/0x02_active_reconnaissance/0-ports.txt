@@ -1,1 +1,1 @@
-nmap -top-ports 100 10.42.172.184 -oN 0-ports.txt
+80
