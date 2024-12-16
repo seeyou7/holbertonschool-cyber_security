@@ -2,54 +2,9 @@
 
 Welcome to the **Linux Fundamentals Guide**! This repository is designed to help you understand and master essential Linux concepts and commands. By the end of this guide, you will be able to explain key aspects of Linux to anyone without the need for external references.
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Learning Outcomes](#learning-outcomes)
-3. [Detailed Topics](#detailed-topics)
-    - [What is Linux](#what-is-linux)
-    - [What is a Linux Command](#what-is-a-linux-command)
-    - [Structure of the Linux Operating System](#structure-of-the-linux-operating-system)
-    - [Filesystem Hierarchy Standard (FHS)](#filesystem-hierarchy-standard-fhs)
-    - [Linux File System Directories](#linux-file-system-directories)
-    - [Protecting Files and Directories](#protecting-files-and-directories)
-    - [Monitoring and Investigating System Activity](#monitoring-and-investigating-system-activity)
-    - [Securely Transferring Files and Data](#securely-transferring-files-and-data)
-    - [Configuring and Managing a Firewall](#configuring-and-managing-a-firewall)
-    - [Identifying and Terminating Malicious Processes](#identifying-and-terminating-malicious-processes)
-    - [Working with Commands](#working-with-commands)
-        - [Using `ps` and `kill` Commands](#using-ps-and-kill-commands)
-        - [Using `netstat` and `ss` Commands](#using-netstat-and-ss-commands)
-        - [Using `nmap`, `lynis`, and `tcpdump` Commands](#using-nmap-lynis-and-tcpdump-commands)
-        - [Using `iptables` and `ufw` to Manage Firewall Rules](#using-iptables-and-ufw-to-manage-firewall-rules)
-4. [Author](#author)
-5. [License](#license)
-
 ## Introduction
 
 Linux is a powerful and versatile operating system widely used in various environments, from personal computers to servers and embedded systems. Understanding Linux fundamentals is crucial for anyone pursuing a career in IT, system administration, or cybersecurity. This guide provides comprehensive explanations of key Linux concepts and commands, enabling you to confidently discuss and utilize Linux in practical scenarios.
-
-## Learning Outcomes
-
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
-
-1. What is Linux
-2. What is a Linux Command
-3. What is the structure of the Linux operating system
-4. What is the purpose of the FHS and what are the benefits of using it
-5. What are the different directories in the Linux file system, and what are their purposes
-6. How to protect files and directories
-7. How to monitor and investigate system activity
-8. How to securely transfer files and data
-9. How to configure and manage a firewall
-10. How to identify and terminate malicious processes
-11. Working with Commands:
-    - How to use the `ps` and `kill` commands to identify and terminate malicious processes
-    - How to use the `netstat` and `ss` commands to monitor network traffic for suspicious activity
-    - How to use the `nmap`, `lynis`, and `tcpdump` commands to analyze network traffic for suspicious behavior
-    - How to use `iptables` and `ufw` to manage the firewall rules on Linux systems
-
-## Detailed Topics
 
 ### What is Linux
 
@@ -91,12 +46,13 @@ The Linux operating system is structured into several layers, each responsible f
 The Filesystem Hierarchy Standard (FHS) defines the directory structure and directory contents in Linux. It ensures consistency across different Linux distributions, making it easier for users and developers to navigate and manage the system.
 
 -Purpose: Standardize the placement of files and directories.
---Benefits:
+
+   **Benefits:**
 1-Consistency: Simplifies navigation and management across distributions.
 2-Predictability: Users know where to find specific files and directories.
 3- Interoperability: Facilitates software compatibility and development.
 
-# Linux File System Directories
+### Linux File System Directories
 Linux organizes files into a hierarchical directory structure. Each directory serves a specific purpose, housing related files and subdirectories.
 
 / (Root): The top-level directory from which all other directories branch.
