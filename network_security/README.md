@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Comprehensive Networking Quiz and Guide
 
 Welcome to the **Comprehensive Networking Quiz and Guide**! This repository is designed to help you test and enhance your understanding of fundamental networking concepts, including the OSI model, networking protocols, and network topologies. Each quiz question is accompanied by detailed explanations to deepen your knowledge of the subjects covered.
