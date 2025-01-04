@@ -1,38 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>NMAP HOST DISCOVERY</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 2rem auto;
-      max-width: 800px;
-      line-height: 1.6;
-      color: #333;
-    }
-    code {
-      background-color: #f4f4f4;
-      padding: 0.2rem 0.4rem;
-      border-radius: 4px;
-    }
-    pre {
-      background-color: #f4f4f4;
-      padding: 1rem;
-      border-radius: 4px;
-      overflow: auto;
-    }
-    h1, h2, h3, h4 {
-      margin-top: 2rem;
-      margin-bottom: 1rem;
-    }
-    hr {
-      margin: 2rem 0;
-    }
-  </style>
-</head>
-<body>
-
 <h1>NMAP HOST DISCOVERY</h1>
 <p>
   Nmap (<strong>Network Mapper</strong>) is a powerful, open-source tool used to discover hosts and services 
@@ -301,6 +266,14 @@
 </p>
 
 <p><strong>Happy scanning (legally and responsibly)!</strong></p>
+
+
+<h2> Author </h2>
+
+<p>
+**Younes Saber**  
+GitHub: [seeyou7](https://github.com/seeyou7) 
+</p>
 
 </body>
 </html
