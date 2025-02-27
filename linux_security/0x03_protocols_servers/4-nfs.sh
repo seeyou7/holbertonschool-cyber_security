@@ -1,2 +1,2 @@
 #!/bin/bash
-showmount -e "$"
+showmount -e "$1"
