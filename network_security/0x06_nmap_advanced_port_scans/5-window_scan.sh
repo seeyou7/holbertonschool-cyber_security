@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo nmap -p $2 --scanflags SYNFINACK  $1 -oN custom_scan.txt
+sudo nmap -sW -p$2 --exclude-ports $3 $1
