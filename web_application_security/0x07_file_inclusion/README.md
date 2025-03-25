@@ -1,6 +1,3 @@
-Sure! Here's an extended and **all-in-one Markdown text** for your `README.md`, with more examples, clear definitions, exploitation techniques, and mitigation tips for **LFI (Local File Inclusion)** and **RFI (Remote File Inclusion)**:
-
----
 
 ```markdown
 # 🔍 LFI & RFI Vulnerabilities - Explained with Examples
@@ -162,12 +159,9 @@ This encodes the source code of the file in base64, useful for code disclosure w
 
 ## 👨‍💻 Author
 
-Made for security researchers, CTF players, and students.  
+Made for CTF players, and students.  
 Keep learning, stay ethical! 🛡️
 
-```
-** Younes SABER**
+** Younes SABER **
 [seeyou](https://github.com/seeyou7)
----
-
 
