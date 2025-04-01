@@ -1,6 +1,3 @@
-# Create a markdown file (.md) with the provided text
-
-md_content = """
 # Buffer Overflow Attack: Understanding, Exploitation, and Prevention
 
 ![Buffer Overflow](./image/bufferoverflow.jpg)
