@@ -23,7 +23,7 @@ Buffers are memory areas allocated for temporary storage. When a program does no
 
 Consider the following pseudocode:
 
-```c
+
 char buffer[8];
 strcpy(buffer, user_input);
 
